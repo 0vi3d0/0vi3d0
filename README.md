@@ -1,16 +1,25 @@
-### Hi there 👋
+### [EN] Hi, I'm Jose Oviedo 🖖
+[![GitHub 0vi3d0](https://img.shields.io/github/followers/pytux?label=follow&style=social)](https://github.com/0vi3d0)
 
-<!--
-**0vi3d0/0vi3d0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A little what I work with... 🤖
 
-Here are some ideas to get you started:
+```csharp
+var 0vi3d0 = new Profile {
+	Country = "Venezuela",
+	Hobbies = new List<String>  {"Programming", "Video Games"},
+	Code = new List<String>  {"C#", "Javascript", "HTML", "CSS", "SQL"},
+	Tools = new List<String> {"Node"},
+  Achievements = new List<String> {"Pawn <NewGamers> <Seoul>", "Node <Infinix>", "HTML/PHP <Websites>"},
+  Knowledge = new List<String> {"Pawn 100%"}
+};
+```
+---
+### [ES] Soy José Oviedo, bienvenid@.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+Pawn | HTML | PHP | Node | SQL |
+100%   80%    50%   36%   100%
+```
+
+---
+⭐️ Encuentrame en [@0vi3d0](https://github.com/0vi3d0)
